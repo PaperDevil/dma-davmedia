@@ -1,0 +1,16 @@
+*.pyc
+bin/*
+lib/*
+src/*
+dist/*
+share/*
+docs/_build/*
+include/*
+.Python
+*egg*
+dummy_project/*
+.cache/
+.tox/
+messages
+*.sqlite3
+.idea/
